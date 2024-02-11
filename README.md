@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmaikelc
-- 👀 I’m interested in Cheminformatics
-- 🌱 I’m also connecting Molecular Dynamics, Docking and Machine Learning in Chemistry/Biology  
-- 💞️ I’m working in Materials Informatics
+- 👀 I’m interested in Cheminformatics, Artificial Intelligence
+- 🌱 I’m also connecting Molecular Dynamics, Docking and Machine Learning in Material Sciences and Chemistry/Biology   
+- 💞️ I’m working in Polymer/Materials Informatics
 - 📫 How to reach me: gmaikelc@gmail.com
 
 <!---
